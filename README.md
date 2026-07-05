@@ -1,10 +1,19 @@
-## Hiii! I'm Leonardo Lobo
- 
- <div>
-  <a href="https://github.com/LeoLobo30">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeoLobo30&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeoLobo30&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+## Hiii! I'm Leonardo Lobo 🐺
+
+<p>Software Engineer focused on building reliable, scalable software.
+
+Currently exploring:
+
+- AI Agents
+- System Design
+- Distributed Systems
+- Android
+- Open Source
+- Performance Engineering
+
+Always learning.
+Always building.</p>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leo-git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
   <img align="center" alt="Leo-java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
@@ -15,8 +24,6 @@
   <img align="center" alt="Leo-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
   <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
 </div>
-  
-  ##
  
 <div>
   <a href = "mailto:leonardogomeslobo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
