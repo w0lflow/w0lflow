@@ -1,34 +1,68 @@
-## Hiii! I'm Leonardo Lobo 🐺
+<p align="center">
+  <img src="./assets/banner.png" width="100%" alt="Leonardo Lobo Banner" />
+</p>
 
-<p>Software Engineer focused on building reliable, scalable software.
+# Hi, I'm Leonardo Lobo 🐺
 
-Currently exploring:
+> **Software Engineer** building reliable, scalable software.
 
-- AI Agents
-- System Design
-- Distributed Systems
-- Android
-- Open Source
-- Performance Engineering
+I'm passionate about designing scalable systems, solving complex engineering problems, and building high-quality software.
 
-Always learning.
-Always building.</p>
+Currently, I'm focused on exploring:
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Leo-git" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg">
-  <img align="center" alt="Leo-java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
-  <img align="center" alt="Leo-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg">
-  <img align="center" alt="Leo-swift" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg">
-  <img align="center" alt="Leo-android" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" />
-  <img align="center" alt="Leo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
-  <img align="center" alt="Leo-Nestjs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-  <img align="center" alt="Leo-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg">
-</div>
- 
-<div>
-  <a href = "mailto:leonardogomeslobo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/leonardo-lobo-166317182/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  <!--[Snake animation](https://github.com/LeoLobo30/LeoLobo30/blob/output/github-contribution-grid-snake.svg) -->
- 
-</div>
+- 🤖 AI Agents
+- 🏗️ System Design
+- 🌐 Distributed Systems
+- 📱 Android Development
+- ⚡ Performance Engineering
+- 🐺 Open Source
+
+> **Always building. Always learning.**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" height="34" alt="Git" />
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" height="34" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="34" alt="Kotlin" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" height="34" alt="Android" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="34" alt="Android Studio" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="34" alt="Swift" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="34" alt="Apple" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="34" alt="Xcode" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+```text
+✓ AI Agents
+✓ System Design
+✓ Distributed Systems
+✓ Android
+✓ Open Source
+✓ Software Architecture
+```
+
+---
+
+## 🌎 Connect with me
+
+<p align="left">
+  <a href="mailto:leonardogomeslobo@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-30363D?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/leonardo-lobo-166317182/">
+    <img src="https://img.shields.io/badge/LinkedIn-30363D?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"The strength of the wolf is the pack, and the strength of the pack is the wolf."</i>
+</p>
