@@ -47,12 +47,6 @@ Currently, I'm focused on exploring:
 ✓ Software Architecture
 ```
 
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LeoLobo30/LeoLobo30/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
-
 ---
 
 ## 🌎 Connect with me
